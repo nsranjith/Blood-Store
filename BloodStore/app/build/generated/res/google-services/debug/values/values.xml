@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">755262166473-o66fb07h2msmpvcnmt6chu7kvmifpabg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://blood-store-50fa3.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">755262166473</string>
+    <string name="google_api_key" translatable="false">AIzaSyA6geSR2oHdUVi3oaiorTacO2V5XwxyubY</string>
+    <string name="google_app_id" translatable="false">1:755262166473:android:d84e91c850d9f4d3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA6geSR2oHdUVi3oaiorTacO2V5XwxyubY</string>
+    <string name="google_storage_bucket" translatable="false">blood-store-50fa3.appspot.com</string>
+</resources>

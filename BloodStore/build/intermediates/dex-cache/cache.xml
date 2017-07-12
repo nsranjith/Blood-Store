@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5ce9652c39c8df10fe62b09e7a69bf8d1e99ba02">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c246c3c26f467bcec33b115f45473901bd671b82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_42fe779c47e8a7d3232785f08bda263e4260f36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_27c052e0e24b98fe8326d91ff09287c15d69e5ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_a93c0e255181332e19b5a4226601e56b490a4625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_1d536d6782e6a85c06a89f05a87b7990a2036d60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_bb650800ad3f7b22e0e94445c7c7f587db848456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_e18ae6a2f9d1c1e9e01278a2b8c15b78159dc9c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_020c7e974c3c1d56f579f764a862df6bd3c29a41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_85a946828ff544c72b78c69c65866534e938b1e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_349d651778f44222ceeddff8d4c19aa2fd9bcb07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_9acbccfadf67b42bbd0c36015d5303a21db42194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.12\6ec0bbd3e161a73ed672284b587fd32309a86d7a\tubesock-0.0.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6ec0bbd3e161a73ed672284b587fd32309a86d7a">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\tubesock-0.0.12_650431dd1a9e9c5b5b66195d8b7f3aafdfa8c70a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_761beb0f6e7155dd8a49893c09c4d4699283910e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.4.0\f00bc767918ad9c89e5c13e25706d033a58e13c2\firebase-client-android-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f00bc767918ad9c89e5c13e25706d033a58e13c2">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.4.0_1ab84695546ae73beaafcefa5c2880a48ce66f0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_1eca4941181fbe807fadf4c8c1569e49c529aa9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_4da8101efbe86efdb934b3871e8a53b93cf75541.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_45f191a6c6f3a4d80b0ded6bc0dfd81bddbb2185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_8e7aa3fe5247c23608e1215816c90237a7dbb0e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_f64474782bc37630040a0b9cb62c12a51289dfd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_4bbb88acccd44f0fe45ca74741c52faf3a3958cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.4.0\558e074f136fee609b8758480ecd00e286595137\firebase-client-jvm-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="558e074f136fee609b8758480ecd00e286595137">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.4.0_ba9ac01b0104e12c0ce5fc26fdbc1c768ddbab2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_9699cbe82620814b36dee0350322b6968258749f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_025550fc58cffe72d4a48e302ca46a131c3f2dbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_8790f3dcab1fe6ede37a0f949b73d0b17540c486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_c3db3760dc15e8cc52ea848be82345aa0754d7f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a7030b71e67b899272abb8ea4afbc0f2402773e9">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\instant-run_76e24456e4ad770d257334b9ecdac6d0e9d630dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_af2415915105d80919b0acfbb25cd240fb640e25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_f12a98d4b7c23f177043d467bb40c327d2800658.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_007e30745410bb38cdb6d8649968b8fbe6b3ae75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_202ffb6a440e9625b7595e90eb537211902dee4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_9d298c525c7cebfcc43a0213a3dc681045bd21b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\RANJITH\AndroidStudioProjects\BloodStore\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_efb0b194f4415a942758d0469beea05c294c46d8.jar" />
+    </item>
+
+</items>

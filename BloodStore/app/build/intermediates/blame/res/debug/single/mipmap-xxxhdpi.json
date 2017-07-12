@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\green_dot.png",
+        "source": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\green_dot.png"
+    },
+    {
+        "merged": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\red_dot.png",
+        "source": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\red_dot.png"
+    },
+    {
+        "merged": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher_blood.png",
+        "source": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_blood.png"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_email.png",
+        "source": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_email.png"
+    },
+    {
+        "merged": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_send.png",
+        "source": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_send.png"
+    },
+    {
+        "merged": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name_message.png",
+        "source": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name_message.png"
+    },
+    {
+        "merged": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_name.png",
+        "source": "C:\\Users\\RANJITH\\AndroidStudioProjects\\BloodStore\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_name.png"
+    }
+]

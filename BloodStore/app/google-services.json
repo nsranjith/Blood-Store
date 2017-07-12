@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "755262166473",
+    "firebase_url": "https://blood-store-50fa3.firebaseio.com",
+    "project_id": "blood-store-50fa3",
+    "storage_bucket": "blood-store-50fa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755262166473:android:d84e91c850d9f4d3",
+        "android_client_info": {
+          "package_name": "com.main.bloodstore.bloodstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755262166473-ap4kl3vmik9b2r49u8tjmm0un3mkuedt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.main.bloodstore.bloodstore",
+            "certificate_hash": "BCCF77D5E0DF31D44699B54355C21CD69FFAE41F"
+          }
+        },
+        {
+          "client_id": "755262166473-o66fb07h2msmpvcnmt6chu7kvmifpabg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6geSR2oHdUVi3oaiorTacO2V5XwxyubY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755262166473-o66fb07h2msmpvcnmt6chu7kvmifpabg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

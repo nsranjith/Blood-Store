@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="50dp"
+    tools:context="com.main.bloodstore.bloodstore.Contact_Us">
+
+
+    <TextView
+        android:text="Contact Us...."
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textSize="30sp"
+        android:paddingBottom="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Sai Teja Suggula"
+            android:textSize="30sp"
+            android:id="@+id/saiteja" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/teja_call"
+            android:clickable="true"
+            android:onClick="callTeja"
+            android:src="@drawable/ic_action_name"
+            />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/teja_email"
+            android:clickable="true"
+            android:onClick="mailTeja"
+            android:src="@drawable/ic_action_email"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Surya Konda       "
+            android:clickable="true"
+            android:onClick="callSurya"
+            android:textSize="30sp"
+            android:id="@+id/textView" />
+
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/surya_call"
+            android:onClick="callSurya"
+            android:src="@drawable/ic_action_name"
+            />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/surya_email"
+            android:clickable="true"
+            android:onClick="mailSurya"
+            android:src="@drawable/ic_action_email"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Ranjith                 "
+            android:textSize="30sp"
+            android:id="@+id/ranjith" />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/ranjith_call"
+            android:clickable="true"
+            android:onClick="callRanjith"
+            android:src="@drawable/ic_action_name"
+            />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:clickable="true"
+            android:onClick="mailRanjith"
+            android:id="@+id/ranjith_email"
+            android:src="@drawable/ic_action_email"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Raj Kishore         "
+            android:textSize="30sp"
+            android:id="@+id/kishore" />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginLeft="30dp"
+            android:clickable="true"
+            android:onClick="callKishore"
+            android:id="@+id/kishore_call"
+            android:src="@drawable/ic_action_name"
+            />
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/kishore_email"
+            android:clickable="true"
+            android:onClick="mailKishore"
+            android:src="@drawable/ic_action_email"/>
+    </LinearLayout>
+
+
+</LinearLayout>
